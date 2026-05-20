@@ -146,7 +146,7 @@ img {
   align-items: center;
   overflow: hidden;
   background:
-    linear-gradient(90deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.94) 10%, rgba(255, 255, 255, 0) 100%),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.7) 10%, rgba(255, 255, 255, 0) 100%),
     url("assets/Gemini_Generated_Image_mzxiuimzxiuimzxi.png") center / cover no-repeat;
   padding-top: 100px;
 }
